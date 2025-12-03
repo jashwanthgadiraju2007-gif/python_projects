@@ -21,7 +21,7 @@ Features
 2. The program retrieves today's date.  
 3. It subtracts the birth date from today's date.  
 4. If days or months are negative, the program adjusts them correctly.  
-5. The final age is displayed in years, months, and days.
+5. The final age is displayed in years, months, and  days.
 
 Sample Output
 
