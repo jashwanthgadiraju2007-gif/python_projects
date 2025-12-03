@@ -1,1 +1,22 @@
+Guess the number between 1 and 50 (You have 5 attempts, 15 sec each)
 
+Attempts left: 5
+Enter your guess: 50
+Smaller
+
+Attempts left: 4
+Enter your guess: 80
+Smaller
+
+Attempts left: 3
+Enter your guess: 90
+Smaller
+
+Attempts left: 2
+Enter your guess: 99
+Greater
+
+Attempts left: 1
+Enter your guess: 94
+ Correct guess!
+You guessed it correctly in 5 attempt(s)!
