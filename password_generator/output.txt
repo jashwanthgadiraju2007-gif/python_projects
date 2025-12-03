@@ -1,1 +1,7 @@
+enter a length: 8
+generated password : @dF9!kP2
+
+another one:
+enter a length: 5
+generated password : aD#7%
 
