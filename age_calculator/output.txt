@@ -1,1 +1,13 @@
+Enter birth day (DD): 15
+Enter birth month (MM): 8
+Enter birth year (YYYY): 2003
+
+Your Age: 22 years, 3 months, 18 days
+
+another example :
+Enter birth day (DD): 25
+Enter birth month (MM): 12
+Enter birth year (YYYY): 2000
+
+Your Age: 24 years, 0 months, 10 days
 
