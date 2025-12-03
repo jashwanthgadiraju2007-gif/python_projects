@@ -32,4 +32,6 @@ How to Run
 
 ```bash
 python main.py
-
+Sample Output
+enter a length: 8
+generated password : @g5L!dP2
