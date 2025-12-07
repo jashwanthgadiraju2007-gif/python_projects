@@ -1,0 +1,33 @@
+ Sample Output
+
+Choose conversion:
+1. Celsius to Fahrenheit  
+2. Fahrenheit to Celsius  
+3. Celsius to Kelvin  
+4. Kelvin to Celsius  
+5. Exit  
+
+Enter your choice (1-5): 1  
+Enter temperature in Celsius: 25  
+Temperature in Fahrenheit is: 77.0  
+
+Choose conversion:
+1. Celsius to Fahrenheit  
+2. Fahrenheit to Celsius  
+3. Celsius to Kelvin  
+4. Kelvin to Celsius  
+5. Exit  
+
+Enter your choice (1-5): 4  
+Enter temperature in Kelvin: 300  
+Temperature in Celsius is: 27.0  
+
+Choose conversion:
+1. Celsius to Fahrenheit  
+2. Fahrenheit to Celsius  
+3. Celsius to Kelvin  
+4. Kelvin to Celsius  
+5. Exit  
+
+Enter your choice (1-5): 5  
+Exit
