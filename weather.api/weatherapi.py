@@ -18,29 +18,30 @@ def get_current_weather(city):
     if response.status_code == 200:
         show_current_weather(data)
     else:
-        print("❌ City not found or API issue.")
+        print(" City not found or API issue.")
 
 
 def show_current_weather(data):
-    print("\n🌍 Location :", data["name"], ",", data["sys"]["country"])
+    print("\n Location :", data["name"], ",", data["sys"]["country"])
 
-    print("\n🌡️ Today Temperature")
+    print("\n Today Temperature")
     print("Current :", data["main"]["temp"], "°C")
     print("Min     :", data["main"]["temp_min"], "°C")
     print("Max     :", data["main"]["temp_max"], "°C")
 
-    print("\n🌬️ Wind Speed :", data["wind"]["speed"], "m/s")
-    print("☁️ Condition  :", data["weather"][0]["description"])
+    print("\n Wind Speed :", data["wind"]["speed"], "m/s")
+    print(" Condition  :", data["weather"][0]["description"])
 
 
 def main():
     city = input("Enter city name: ").strip()
 
     if not city:
-        print("❌ City name cannot be empty.")
+        print(" City name cannot be empty.")
         return
 
     get_current_weather(city)
 
 
 main()
+
