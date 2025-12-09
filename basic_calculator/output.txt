@@ -1,0 +1,12 @@
+Sample Output 1
+Operations: +  -  *  /  %  sq  !  ^  exit
+Choose an operation: +
+Enter first number: 20
+Enter second number: 30
+Result: 50
+
+Sample Output 2
+Operations: +  -  *  /  %  sq  !  ^  exit
+Choose an operation: sq
+Enter a number: 49
+Result: 7.0
