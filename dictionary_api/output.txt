@@ -1,0 +1,18 @@
+output 1 :
+
+Enter a word: happy
+WORD: happy
+Meaning: Feeling or showing pleasure or contentment
+Synonym 1: joyful
+Synonym 2: glad
+Example: She felt happy after winning.
+
+
+output 2:
+
+Enter a word: computer
+WORD: computer
+Meaning: An electronic device for storing and processing data
+Synonym 1: device
+Synonym 2: machine
+Example: I use a computer for coding and learning
