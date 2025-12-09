@@ -1,0 +1,26 @@
+sample output 1:
+Enter city name: chennai
+
+ Location : Chennai , IN
+
+Today Temperature
+Current : 24.02 °C
+Min     : 23.87 °C
+Max     : 24.99 °C
+
+ Wind Speed : 2.57 m/s
+ Condition  : mist
+
+sample output 2:
+Enter city name: madurai
+
+Location : Madurai , IN
+
+Today Temperature
+Current : 23.01 °C
+Min     : 23.01 °C
+Max     : 23.01 °C
+
+Wind Speed : 3.09 m/s
+Condition  : mist
+
