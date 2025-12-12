@@ -1,0 +1,16 @@
+enter marks:100,100,90,26,40,70,98,45,60,100
+total students: 10
+Average: 72.9
+Highest: 100
+Lowest: 26
+Passed: 9
+Failed: 1
+pass_percentage: 90.0
+Fail_percentage: 10.0
+
+ grade distribution:
+A : 5
+B : 0
+C : 2
+D : 2
+F : 1
